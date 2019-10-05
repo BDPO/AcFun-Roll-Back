@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name        AcFun自动换地址 V3文章版
-// @description 目前可以调用旧版评论区风格，不保证后续可用
+// @name        AcFun自动换地址 文章版
+
+// @description 正文暂时还可启用旧版样式，不保证后续可用
+// @description 旧版评论区风格已失效，无法恢复
 
 // @author      补档PO
-// @version     1.3.2
+// @version     1.3.3
 
 // @include     https://www.acfun.cn/a/ac*
 
