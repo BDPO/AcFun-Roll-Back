@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name        AcFun自动换地址 视频版
 
-// @description 视频页面调用flash播放器
-// @description 旧版评论区风格，不保证后续可用
+// @description 旧版评论区风格目前暂时还有效，不保证后续可用
+// @description 视频页面调用flash播放器（已失效）
 
-// @description 感谢 浮云总是梦 全程指导代码！
+// @description 感谢 @浮云总是梦 全程指导代码！
+
 // @author      浮云总是梦 补档PO
-// @version     1.3.3
+// @version     1.3.4
 
 // @include     https://www.acfun.cn/*
 
